@@ -4,7 +4,7 @@
  *main - entry point
  *prints and that piece of art is useful\" - Dora Korpar
  *followed by a new line
- *Return 1
+ *Return: 1 always sucess
 */
 
 int main(void)
