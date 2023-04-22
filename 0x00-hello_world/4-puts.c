@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - entry point
+ * prints programming is like building multilingual puzzle, followed by a new line
+ *  Return: 0 always sucess
+*/
 
 int main(void)
 {
